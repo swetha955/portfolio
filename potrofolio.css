@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-image:url('rr.jpg');
+    background-size: cover;
+
+}
+header{
+    background-color: violet;
+    color: aliceblue;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+}
+#PortFolio{
+    background-color: pink;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+
+
